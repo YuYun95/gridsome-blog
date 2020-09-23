@@ -2,16 +2,19 @@
   <Layout>
 
     <!-- Page Header -->
-    <header class="masthead" :style="{
-        backgroundImage: `url(${GRIDSOME_API_URL+$page.post.cover.url})`
-      }">
+    <header
+      class="masthead"
+      :style="{
+        backgroundImage: `url(${GRIDSOME_API_URL+general.cover.url})`
+      }"
+    >
       <div class="overlay"></div>
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-md-10 mx-auto">
             <div class="site-heading">
-              <h1>{{ general.title}}</h1>
-              <span class="subheading">{{ general.subtitle}}</span>
+              <h1>{{general.title}}</h1>
+              <span class="subheading">{{general.subtitle}}</span>
             </div>
           </div>
         </div>
@@ -35,13 +38,13 @@
             </p>
             <p>
               <span v-for="tag in edge.node.tags" :key="tag.id">
-                <g-link :to="'/tag/'+tag.id">{{tag.title}}</g-link>
+                <g-link :to="'tag/'+tag.id">{{tag.title}}</g-link>
                  &nbsp;&nbsp;
               </span>
             </p>
-            <hr/>
+            <hr />
           </div>
-          <Pager :info="$page.posts.pageInfo"/>
+          <Pager :info="$page.posts.pageInfo" />
         </div>
       </div>
     </div>
@@ -87,8 +90,7 @@
   }
 </page-query>
 <script>
-import {Pager} from 'gridsome'
-
+import { Pager } from 'gridsome'
 export default {
   name: 'HomePage',
   components: {
@@ -97,11 +99,10 @@ export default {
   metaInfo: {
     title: "Hello, world!",
   },
-
   computed: {
-    general() {
+    general () {
       return this.$page.general.edges[0].node
     }
   }
-}
+};
 </script>
