@@ -40,7 +40,7 @@
 
 <page-query>
   query($id: ID!) {
-  tag: strapiTag(id: $id) {
+  tag: StrapiTag(id: $id) {
   title
   id
   posts {
