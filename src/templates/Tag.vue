@@ -8,6 +8,7 @@
         <div class="row">
           <div class="col-lg-8 col-md-10 mx-auto">
             <div class="site-heading">
+              <h1># {{$page.tag.title}}</h1>
             </div>
           </div>
         </div>
@@ -18,7 +19,18 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
-
+          <div class="post-preview" v-for="post in $page.tag.posts" :key="post.id">
+            <g-link :to="'post/'+post.id">
+              <h2 class="post-title">
+                {{post.title}}
+              </h2>
+            </g-link>
+            <p class="post-meta">
+              Posted by
+              on {{post.created_at}}
+            </p>
+            <hr />
+          </div>
         </div>
       </div>
     </div>
@@ -26,6 +38,19 @@
   </Layout>
 </template>
 
+<page-query>
+  query($id: ID!) {
+  tag: strapiTag(id: $id) {
+  title
+  id
+  posts {
+  id
+  title
+  created_at
+  }
+  }
+  }
+</page-query>
 
 <script>
 export default {
