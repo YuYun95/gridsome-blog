@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b188f4a-5e82-4130-9bf5-ec2cf17f0612" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gridsome.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gridsome.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/Post.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/Post.vue" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hbLCjDCXIfMiGiZgSL4WazkkLm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/PLK-project/备份/web" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="D:\WebTest\LaGouWEB\blog-with-gridsome\node_modules\prettier" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WebTest\LaGouWEB\blog-with-gridsome\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WebTest\LaGouWEB\blog-with-gridsome\src\templates" />
+      <recent name="D:\WebTest\LaGouWEB\blog-with-gridsome\content\blog" />
+      <recent name="D:\WebTest\LaGouWEB\blog-with-gridsome\content\foo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.develop">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="develop" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="develop" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.develop" />
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b188f4a-5e82-4130-9bf5-ec2cf17f0612" name="Default Changelist" comment="" />
+      <created>1600274719376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600274719376</updated>
+      <workItem from="1600274721166" duration="921000" />
+      <workItem from="1600358609960" duration="2505000" />
+      <workItem from="1600497991999" duration="3927000" />
+      <workItem from="1600526248832" duration="5139000" />
+      <workItem from="1600582777101" duration="859000" />
+      <workItem from="1600608080074" duration="7308000" />
+      <workItem from="1600617671256" duration="2143000" />
+      <workItem from="1600696267428" duration="8062000" />
+      <workItem from="1600787027751" duration="4953000" />
+      <workItem from="1600829806517" duration="1688000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600791183445">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="395" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.-205.1920.1040@0.0.1366.728" timestamp="1600791183445" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1600787089630">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.-205.1920.1040@0.0.1366.728" timestamp="1600787089630" />
+    <state width="1345" height="183" key="GridCell.Tab.0.bottom" timestamp="1600792011087">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="183" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-205.1920.1040@0.0.1366.728" timestamp="1600792011087" />
+    <state width="1345" height="183" key="GridCell.Tab.0.center" timestamp="1600792011086">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="183" key="GridCell.Tab.0.center/0.0.1366.728/1366.-205.1920.1040@0.0.1366.728" timestamp="1600792011086" />
+    <state width="1345" height="183" key="GridCell.Tab.0.left" timestamp="1600792011086">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="183" key="GridCell.Tab.0.left/0.0.1366.728/1366.-205.1920.1040@0.0.1366.728" timestamp="1600792011086" />
+    <state width="1345" height="183" key="GridCell.Tab.0.right" timestamp="1600792011087">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="183" key="GridCell.Tab.0.right/0.0.1366.728/1366.-205.1920.1040@0.0.1366.728" timestamp="1600792011087" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1600698864527">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.-205.1920.1040@0.0.1366.728" timestamp="1600698864527" />
+  </component>
+</project>
