@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b188f4a-5e82-4130-9bf5-ec2cf17f0612" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/Tag.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/Tag.vue" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +105,7 @@
       <workItem from="1600617671256" duration="2143000" />
       <workItem from="1600696267428" duration="8062000" />
       <workItem from="1600787027751" duration="4953000" />
-      <workItem from="1600829806517" duration="3443000" />
+      <workItem from="1600829806517" duration="3723000" />
     </task>
     <servers />
   </component>
