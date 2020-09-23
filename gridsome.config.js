@@ -7,7 +7,6 @@
 
 module.exports = {
   siteName: 'Gridsome',
-  siteDescription: '',
   plugins: [
     {
       use: '@gridsome/source-filesystem',
